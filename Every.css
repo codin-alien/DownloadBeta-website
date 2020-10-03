@@ -1,0 +1,38 @@
+header{
+    margin: -8px;
+    padding: 10px;
+    background: rgb(7, 7, 31);
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    text-decoration: underline;
+    background-color:Gray;
+}
+ul{
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+    text-align: center;
+}
+li{
+    display: inline-block;
+    margin: 0 100px 0 100px;
+}
+
+input{
+    border-radius: 7px;
+}
+footer{
+    margin: -8px;
+    padding: 10px;
+    background: rgb(7, 7, 31);
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}

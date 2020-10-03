@@ -1,0 +1,20 @@
+section{
+    padding: 20px 0;
+}
+.features{
+    background: white;
+    display: flex;
+    margin: 0 -10px;
+    flex-direction: row;
+}
+.features figure{
+    margin: auto;
+    width: 100px;
+    text-align: center;
+}
+.features figure img{
+    width: 200px;
+    height: 300px;
+    box-shadow: black 0 0 10px;
+    border: 1px solid white;
+}
