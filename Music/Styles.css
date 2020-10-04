@@ -1,0 +1,32 @@
+div.all{
+    display: inline-block;
+    margin: 15px 0;
+    padding: 0;
+}
+section.downloads{
+    background: rgb(206, 206, 223);
+    margin: 8px -10px 0 -10px;
+    padding-left: 12px;
+}
+div{
+    padding: 10px 420px 10px 10px ;
+ /*   box-shadow: black 0 0 100px;*/
+    border: 1px solid  black;
+    background: rgb(206, 206, 223);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+nav{
+    padding: 5px 0 0 10px;
+}
+button{
+    color: Black;
+    background: white;
+    border-radius: 10px;
+    border: 0.5px thin rgb(7, 7, 31);
+    font-family: monospace;
+}
+button:hover{
+    background: rgb(7, 7, 31);
+    color: white;
+    border-radius: 10px;
+}

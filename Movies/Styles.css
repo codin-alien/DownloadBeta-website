@@ -6,15 +6,20 @@ section{
     display: flex;
     margin: 0 -10px;
     flex-direction: row;
+    padding-right: 10px;
 }
 .features figure{
     margin: auto;
+    padding: 0 100px 0 0;
     width: 100px;
-    text-align: center;
 }
 .features figure img{
     width: 200px;
     height: 300px;
     box-shadow: black 0 0 10px;
     border: 1px solid white;
+}
+.features figure figcaption{
+    width: 200px;
+    text-align: center;
 }
