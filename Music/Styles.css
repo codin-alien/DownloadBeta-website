@@ -2,6 +2,8 @@ div.all{
     display: inline-block;
     margin: 15px 0;
     padding: 0;
+    background: yellow;
+    text-align: center;
 }
 section.downloads{
     background: rgb(206, 206, 223);
@@ -9,14 +11,15 @@ section.downloads{
     padding-left: 12px;
 }
 div{
-    padding: 10px 420px 10px 10px ;
- /*   box-shadow: black 0 0 100px;*/
+    padding: 10px 0 10px 10px ;
+    width: 660px;
+    box-shadow: black 0 0 2px;
     border: 1px solid  black;
     background: rgb(206, 206, 223);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 nav{
-    padding: 5px 0 0 10px;
+    padding: 5px 10px 5px;
 }
 button{
     color: Black;
